@@ -38,6 +38,8 @@ public class DreamTools : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
+				"ImageCore",
+				"ImageWrapper",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
