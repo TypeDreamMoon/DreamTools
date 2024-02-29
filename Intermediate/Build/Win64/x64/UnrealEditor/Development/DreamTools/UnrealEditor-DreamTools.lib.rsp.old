@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DreamTools.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"I:\UProject\PluginsCreate\Intermediate\Build\Win64\x64\PluginsCreateEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"I:\UProject\PluginsCreate\Plugins\DreamTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamTools\Module.DreamTools.cpp.obj"
+"I:\UProject\PluginsCreate\Plugins\DreamTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamTools\Default.rc2.res"
+/OUT:"I:\UProject\PluginsCreate\Plugins\DreamTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\DreamTools\UnrealEditor-DreamTools.lib"

@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "i:\\uproject\\pluginscreate\\plugins\\dreamtools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dreamtools\\module.dreamtools.cpp",
+        "ProvidedModule": "",
+        "PCH": "i:\\uproject\\pluginscreate\\intermediate\\build\\win64\\x64\\pluginscreateeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "i:\\uproject\\pluginscreate\\plugins\\dreamtools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dreamtools\\definitions.dreamtools.h",
+            "i:\\uproject\\pluginscreate\\plugins\\dreamtools\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamtools\\uht\\dreamtools.init.gen.cpp",
+            "i:\\uproject\\pluginscreate\\plugins\\dreamtools\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamtools\\uht\\dreamtoolsblueprintfunctionlibrary.gen.cpp",
+            "i:\\uproject\\pluginscreate\\plugins\\dreamtools\\source\\dreamtools\\public\\dreamtoolsblueprintfunctionlibrary.h",
+            "i:\\uproject\\pluginscreate\\plugins\\dreamtools\\intermediate\\build\\win64\\unrealeditor\\inc\\dreamtools\\uht\\dreamtoolsblueprintfunctionlibrary.generated.h",
+            "i:\\uproject\\pluginscreate\\plugins\\dreamtools\\source\\dreamtools\\private\\dreamtools.cpp",
+            "i:\\uproject\\pluginscreate\\plugins\\dreamtools\\source\\dreamtools\\public\\dreamtools.h",
+            "i:\\uproject\\pluginscreate\\plugins\\dreamtools\\source\\dreamtools\\private\\dreamtoolsblueprintfunctionlibrary.cpp",
+            "g:\\unrealengine\\ue_5.3\\engine\\source\\developer\\desktopplatform\\public\\desktopplatformmodule.h",
+            "g:\\unrealengine\\ue_5.3\\engine\\source\\developer\\desktopplatform\\public\\idesktopplatform.h",
+            "g:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\imagewrapper\\public\\iimagewrapper.h",
+            "g:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\public\\imageutils.h",
+            "g:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\imagewrapper\\public\\iimagewrappermodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DreamTools.cpp.obj": [
+			"DreamTools.init.gen.cpp.obj",
+			"DreamToolsBlueprintFunctionLibrary.gen.cpp.obj",
+			"DreamTools.cpp.obj",
+			"DreamToolsBlueprintFunctionLibrary.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DreamTools.cpp.obj": [
+			"DreamTools.cpp.obj"
+		]
+	}
+}
